@@ -1,0 +1,10 @@
+cores = ["vermelho", "azul", "amarelo", "rosa"]
+print (cores)
+cores.append("verde")
+print(cores)
+cores.remove("rosa")
+print(cores)
+cores.pop(0)
+print(cores)
+cores.sort()
+print(cores)
