@@ -1,0 +1,8 @@
+dias_da_semana = ("quinta","sexta", "domingo")
+print(dias_da_semana)
+dias_da_semana = list(dias_da_semana)
+print(dias_da_semana)
+dias_da_semana.append("segunda")
+print(dias_da_semana)
+dias_da_semana = list(dias_da_semana)
+print(dias_da_semana)
